@@ -72,15 +72,13 @@
 
 ​    Amazon EC2 为您的实例提供了灵活、经济且易于使用的数据存储选项。各选项都具有独特的性能和耐久性。这些存储选项既可以单独使用，也可以组合使用，以便满足您的需求。
 
-​    
+​         [Amazon Elastic Block Store](https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/AmazonEBS.html)
 
-​     [Amazon Elastic Block Store](https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/AmazonEBS.html)
+​        [Amazon EC2 实例存储](https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/InstanceStorage.html)
 
-​     [Amazon EC2 实例存储](https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/InstanceStorage.html)
+​        [Amazon Elastic File System (Amazon EFS)](https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/AmazonEFS.html)
 
-​     [Amazon Elastic File System (Amazon EFS)](https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/AmazonEFS.html)
-
-​     [Amazon Simple Storage Service (Amazon S3)](https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/AmazonS3.html)
+​        [Amazon Simple Storage Service (Amazon S3)](https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/AmazonS3.html)
 
 
 
