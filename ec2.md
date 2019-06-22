@@ -98,13 +98,11 @@
 
 - **其他资源**
 
-  QuickStart:
+  [启动Linux 虚拟机](https://aws.amazon.com/cn/getting-started/tutorials/launch-a-virtual-machine/)
+  
+  [启动Window虚拟机](https://aws.amazon.com/cn/getting-started/tutorials/launch-windows-vm/)
 
-​        [启动Linux 虚拟机](https://aws.amazon.com/cn/getting-started/tutorials/launch-a-virtual-machine/)
+  [资源](https://amazonaws-china.com/cn/ec2/resources/)
 
-​        [启动Window虚拟机](https://aws.amazon.com/cn/getting-started/tutorials/launch-windows-vm/)
-
-​     [资源](https://amazonaws-china.com/cn/ec2/resources/)
-
-​     [FAQ](https://amazonaws-china.com/cn/ec2/faqs/)
+  [FAQ](https://amazonaws-china.com/cn/ec2/faqs/)
 
