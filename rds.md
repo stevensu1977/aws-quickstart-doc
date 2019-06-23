@@ -72,4 +72,3 @@
   - [创建 PostgreSQL 数据库实例并连接到 PostgreSQL 数据库实例上的数据库](https://docs.aws.amazon.com/zh_cn/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.CreatingConnecting.PostgreSQL.html)
   - [教程：创建 Web 服务器和 Amazon RDS 数据库](https://docs.aws.amazon.com/zh_cn/AmazonRDS/latest/UserGuide/TUT_WebAppWithRDS.html)
   - [FAQ](https://amazonaws-china.com/cn/rds/faqs/)
-
